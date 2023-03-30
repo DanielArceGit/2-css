@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+.header {
+    background-image: url(../imgs/background.jpg);
+    height: 100px;
+    padding: 100px;
+    background-size: cover;
+    background-position: center;
+    color: white;
+    font-size: 30px;
+    font-family: cursive;
+}
+.products {
+    width: 80%;
+    margin: auto;
+}
+.products td {
+    width: 10%;
+    padding: 20px;
+    font-style: italic;
+    font-size: 20px
+}
+.products img {
+    width: 80%;
+    border: white solid;
+}
+.footer {
+    height: 3em;
+    line-height: 3em;
+    background-color: rgb(185, 112, 41);
+    color: white;
+    text-align: center;
+    font-weight: 900;
+    font-size: 20px;
+}
